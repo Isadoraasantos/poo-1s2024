@@ -1,7 +1,7 @@
 package herança.empresa;
 
 
-    public class Engenheiro { //esta dentro do {} amarelo é da classe engenheiro
+    public class Engenheiro extends { //esta dentro do {} amarelo é da classe engenheiro
         //engenheiro é uma pessoa, ou seja, (o que o define)ele tem: nome, cpf, telefone, registro no crea , projeto
     
         private String nome; //privada nao acessa diretamente, estamos treinando encapsulamento, pelo gatterts and setters

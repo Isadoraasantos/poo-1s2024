@@ -1,7 +1,8 @@
 package herança.empresa;
 
-public class Diretor {
+public class Diretor extends Funcionario {
     
+    private 
     private String nome;
     private Integer telefone;
     private Integer cpf;
